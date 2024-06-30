@@ -6,7 +6,7 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-app.listen(8787, () => {
+app.listen(8080, () => {
     console.log("Server started!");
 });
 
