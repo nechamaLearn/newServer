@@ -57,7 +57,7 @@ env:
   #artifact registry
   GAR_LOCATION: us-central1 # TODO: update Artifact Registry location
   REPO: cloud-run-source-deploy
-  IMAGE: newServer
+  IMAGE: new-server
   
 
 jobs:
